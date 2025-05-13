@@ -1,7 +1,5 @@
 # Vinheria Agnello - Website
 
-![Vinheria Agnello](assets/images/logo.png)
-
 ## 📋 Sobre o Projeto
 
 A Vinheria Agnello é uma tradicional loja de vinhos localizada em São Paulo, com mais de 15 anos de experiência no mercado. Este projeto representa a transição da empresa para o comércio eletrônico, mantendo a essência do atendimento especializado e consultivo que sempre caracterizou a marca.
@@ -65,20 +63,6 @@ O website é composto por 5 páginas principais, cada uma com um propósito espe
 - Galeria de produtos
 - Imagens da vinícola
 
-## 🛠️ Instalação e Uso
-
-1. Clone o repositório
-bash
-git clone https://github.com/seu-usuario/vinheria-agnello.git
-
-
-2. Navegue até o diretório do projeto
-bash
-cd vinheria-agnello
-
-
-3. Abra o arquivo index.html em seu navegador
-
 ## 👥 Equipe de Desenvolvimento
 
 - Arthur Cruz
@@ -90,11 +74,5 @@ cd vinheria-agnello
 ## 🌐 Link do Projeto
 
 Acesse o site: [Vinheria Agnello](https://github.com/lucascostazago/cp-front-end)
-
-## 📝 Licença
-
-Este projeto está sob a licença [MIT](LICENSE).
-
----
 
 Desenvolvido com ❤️ pela equipe da Vinheria Agnello
