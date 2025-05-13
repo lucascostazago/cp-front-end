@@ -90,7 +90,7 @@ cd vinheria-agnello
 
 ## 🌐 Link do Projeto
 
-Acesse o site: [Vinheria Agnello](https://canacruz.github.io/CP-Web/)
+Acesse o site: [Vinheria Agnello](https://github.com/lucascostazago/cp-front-end)
 
 ## 📝 Licença
 
