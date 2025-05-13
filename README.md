@@ -1,33 +1,100 @@
 # Vinheria Agnello - Website
 
-# Sobre o Projeto
-   A situação abordada da Vinheria Agnello descreve a transição de uma loja física de vinhos, com mais de 15 anos de atuação em São Paulo, para o comércio eletrônico. A vinheria, conhecida pelo atendimento especializado e consultivo de seus vendedores, sofreu um impacto significativo na pandemia devido à redução do movimento presencial.
-   O proprietário, sr.Giulio, não era adequo à ideia de vendas online, por considerar o e-commerce frio e distante da imersão oferecida por ele e sua equipe. No entanto, incentivado por sua filha Bianca, ele decidiu investir no desenvolvimento de um portal de e-commerce que preserve a qualidade da experiência de compra.
-   A Vinheria Agnello já conta com um Software Integrado para gestão financeira e de estoques, porém, é necesário uma solução digital que traduza sua abordagem consultiva para o ambiente online, não perdendo a essencia da empresa. Como a definição do projeto ainda tem incertezas, diante a necessidade de oferecer toda a experiência vivida pelos clientes em sua loja presencial, traduzida para o e-commerce, optou-se por aplicar um método ágil de design, tendo Bianca como Product Owner e um desenvolvedor sênior como Scrum Master para liderar o projeto.
+![Vinheria Agnello](assets/images/logo.png)
 
-# Estrutura do Site
-   O website é composto por 5 páginas principais:
+## 📋 Sobre o Projeto
 
-1. **Início (index.html)**
-  - É demonstrado uma breve introdução da empresa, além de um video de apresentação da vinícola (link externo, encontrado no youtube) e uma tabela com os tipos de vinho e as harmonizações que podem ser usufruidas junto com os vinhos de cada tipo. 
+A Vinheria Agnello é uma tradicional loja de vinhos localizada em São Paulo, com mais de 15 anos de experiência no mercado. Este projeto representa a transição da empresa para o comércio eletrônico, mantendo a essência do atendimento especializado e consultivo que sempre caracterizou a marca.
 
-2. **Produtos (produtos.html)**
-  - Apresenta os produtos que são vendidos pela vinheria, sendo eles: a seleção especial proposta pelo estabelecimento que contem vinhos tintos, brancos, rosés e espumantes; Kits especiais com vinhos, taças e queijos; Acessorios como saca-rolhas, decanters, aeradores e bolsas térmicas, além de produtos gourmet como queijos finos, embutidos, azeites especiais e geleias.
+### Contexto
+- *Situação Atual*: Transição de loja física para e-commerce
+- *Desafio*: Preservar a qualidade da experiência de compra no ambiente digital
+- *Solução*: Desenvolvimento de um portal e-commerce que traduz a abordagem consultiva para o ambiente online
 
-3. **História (historia.html)**
-  - Proporcionado aos clientes toda a história por trás da Vinheria Agnello, desde sua fundação até os dias atuais.
+### Equipe do Projeto
+- *Product Owner*: Bianca (filha do proprietário)
+- *Scrum Master*: Desenvolvedor Sênior
+- *Time de Desenvolvimento*: Equipe de desenvolvedores
 
-4. **Contato (contato.html)**
-  - Disponibilizado um formulário para que os clientes possam entrar em contato com a vinheria e atribuir sugestões, criticas e elogios. 
+## 🚀 Tecnologias Utilizadas
 
-5. **Galeria (galeria.html)**
-  - Uma galeria de fotos da loja, dos produtos e da vinícola, para que os clientes possam conhecer melhor a vinheria.
+- HTML5
+- CSS3
+- JavaScript
 
-# Nomes
-   ## Arthur Cruz
-   ## Murilo Reis
-   ## Murillo Akira
-   ## Igor Dominiski
-   ## Lucas Zago
+## 📦 Estrutura do Site
 
-   https://canacruz.github.io/CP-Web/
+O website é composto por 5 páginas principais, cada uma com um propósito específico:
+
+### 1. Início (index.html)
+- Introdução da empresa
+- Vídeo de apresentação da vinícola (YouTube)
+- Tabela de harmonização de vinhos
+- Destaques e promoções
+
+### 2. Produtos (produtos.html)
+- Seleção especial de vinhos:
+  - Vinhos tintos
+  - Vinhos brancos
+  - Vinhos rosés
+  - Espumantes
+- Kits especiais (vinhos, taças e queijos)
+- Acessórios:
+  - Saca-rolhas
+  - Decanters
+  - Aeradores
+  - Bolsas térmicas
+- Produtos gourmet:
+  - Queijos finos
+  - Embutidos
+  - Azeites especiais
+  - Geleias
+
+### 3. História (historia.html)
+- História da Vinheria Agnello
+- Linha do tempo desde a fundação
+- Marcos importantes
+
+### 4. Contato (contato.html)
+- Formulário de contato
+- Canal para sugestões, críticas e elogios
+- Informações de localização
+
+### 5. Galeria (galeria.html)
+- Fotos da loja
+- Galeria de produtos
+- Imagens da vinícola
+
+## 🛠️ Instalação e Uso
+
+1. Clone o repositório
+bash
+git clone https://github.com/seu-usuario/vinheria-agnello.git
+
+
+2. Navegue até o diretório do projeto
+bash
+cd vinheria-agnello
+
+
+3. Abra o arquivo index.html em seu navegador
+
+## 👥 Equipe de Desenvolvimento
+
+- Arthur Cruz
+- Murilo Reis
+- Murillo Akira
+- Igor Dominiski
+- Lucas Zago
+
+## 🌐 Link do Projeto
+
+Acesse o site: [Vinheria Agnello](https://github.com/lucascostazago/cp-front-end)
+
+## 📝 Licença
+
+Este projeto está sob a licença [MIT](LICENSE).
+
+---
+
+Desenvolvido com ❤️ pela equipe da Vinheria Agnello
