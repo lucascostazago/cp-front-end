@@ -21,9 +21,7 @@
   margin: 0 auto 20px;
 }
 
-.produto:hover {
-  transform: translateY(-5px);
-}
+
 
 .produtos img {
   width: 350px;
@@ -66,19 +64,3 @@
   background-color: #f2f2f2;
 }
 
-/* Responsividade */
-@media (max-width: 1024px) {
-  .produtos {
-    grid-template-columns: 1fr;
-  }
-  
-  .produto {
-    text-align: center;
-  }
-  
-  .produtos img {
-    width: 250px;
-    height: 250px;
-    margin: 0 auto 20px;
-  }
-} 
