@@ -73,6 +73,6 @@ O website é composto por 5 páginas principais, cada uma com um propósito espe
 
 ## 🌐 Link do Projeto
 
-Acesse o site: [Vinheria Agnello](https://github.com/lucascostazago/cp-front-end)
+Acesse o site: [Vinheria Agnello](https://lucascostazago.github.io/cp-front-end/vinharia/src/pages/galeria.html)
 
 Desenvolvido com ❤️ pela equipe da Vinheria Agnello
