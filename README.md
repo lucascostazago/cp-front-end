@@ -63,6 +63,15 @@ O website é composto por 5 páginas principais, cada uma com um propósito espe
 - Galeria de produtos
 - Imagens da vinícola
 
+🆕 Seção “Efeitos Visuais”
+Para enriquecer a experiência do usuário, foram aplicados recursos visuais modernos:
+
+Pseudo-classes: :hover para botões interativos, :focus nos campos de formulário e :nth-child() para estilização em listas e menus.
+
+Pseudo-elementos: ::before e ::after usados para adicionar ornamentos decorativos nas seções e títulos.
+
+Animações e transições: Transições suaves em botões e cards, além de pequenas animações de entrada em elementos da homepage, garantindo fluidez e sofisticação.
+
 ## 👥 Equipe de Desenvolvimento
 
 - Arthur Cruz
