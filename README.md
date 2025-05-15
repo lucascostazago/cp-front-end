@@ -1,36 +1,34 @@
 # Vinheria Agnello - Website
 
+![Vinheria Agnello](assets/images/logo.png)
+
 ## 📋 Sobre o Projeto
 
 A Vinheria Agnello é uma tradicional loja de vinhos localizada em São Paulo, com mais de 15 anos de experiência no mercado. Este projeto representa a transição da empresa para o comércio eletrônico, mantendo a essência do atendimento especializado e consultivo que sempre caracterizou a marca.
 
 ### Contexto
-- *Situação Atual*: Transição de loja física para e-commerce
-- *Desafio*: Preservar a qualidade da experiência de compra no ambiente digital
-- *Solução*: Desenvolvimento de um portal e-commerce que traduz a abordagem consultiva para o ambiente online
-
-### Equipe do Projeto
-- *Product Owner*: Bianca (filha do proprietário)
-- *Scrum Master*: Desenvolvedor Sênior
-- *Time de Desenvolvimento*: Equipe de desenvolvedores
+- **Situação Atual**: Transição de loja física para e-commerce
+- **Desafio**: Preservar a qualidade da experiência de compra no ambiente digital
+- **Solução**: Desenvolvimento de um portal e-commerce que traduz a abordagem consultiva para o ambiente online
 
 ## 🚀 Tecnologias Utilizadas
 
 - HTML5
 - CSS3
 - JavaScript
+- [Adicionar outras tecnologias relevantes]
 
 ## 📦 Estrutura do Site
 
 O website é composto por 5 páginas principais, cada uma com um propósito específico:
 
-### 1. Início (index.html)
+### 1. Início (`index.html`)
 - Introdução da empresa
 - Vídeo de apresentação da vinícola (YouTube)
 - Tabela de harmonização de vinhos
 - Destaques e promoções
 
-### 2. Produtos (produtos.html)
+### 2. Produtos (`produtos.html`)
 - Seleção especial de vinhos:
   - Vinhos tintos
   - Vinhos brancos
@@ -48,29 +46,42 @@ O website é composto por 5 páginas principais, cada uma com um propósito espe
   - Azeites especiais
   - Geleias
 
-### 3. História (historia.html)
+### 3. História (`historia.html`)
 - História da Vinheria Agnello
 - Linha do tempo desde a fundação
 - Marcos importantes
 
-### 4. Contato (contato.html)
+### 4. Contato (`contato.html`)
 - Formulário de contato
 - Canal para sugestões, críticas e elogios
 - Informações de localização
 
-### 5. Galeria (galeria.html)
+### 5. Galeria (`galeria.html`)
 - Fotos da loja
 - Galeria de produtos
 - Imagens da vinícola
 
-🆕 Seção “Efeitos Visuais”
-Para enriquecer a experiência do usuário, foram aplicados recursos visuais modernos:
+## 🎨 Características
+- Design responsivo que se adapta a diferentes tamanhos de tela
+- Interface moderna e elegante
+- Seções bem estruturadas incluindo:
+  - Página de História
+  - Galeria de produtos
+  - Informações sobre a vinícola
 
-Pseudo-classes: :hover para botões interativos, :focus nos campos de formulário e :nth-child() para estilização em listas e menus.
+## 🎭 Animações e Efeitos Visuais
+O projeto implementa diversos efeitos visuais para melhorar a experiência do usuário:
 
-Pseudo-elementos: ::before e ::after usados para adicionar ornamentos decorativos nas seções e títulos.
+### Efeitos Atuais
+- Overlay com gradiente na seção de história
+- Sombras de texto para melhor legibilidade
+- Transições suaves em elementos interativos
 
-Animações e transições: Transições suaves em botões e cards, além de pequenas animações de entrada em elementos da homepage, garantindo fluidez e sofisticação.
+### Seção de História
+- Background com imagem de vinícola
+- Overlay escuro para melhor contraste
+- Texto centralizado com sombra para destaque
+- Layout responsivo que se adapta a diferentes dispositivos
 
 ## 👥 Equipe de Desenvolvimento
 
@@ -82,6 +93,7 @@ Animações e transições: Transições suaves em botões e cards, além de peq
 
 ## 🌐 Link do Projeto
 
-Acesse o site: [Vinheria Agnello](https://lucascostazago.github.io/cp-front-end/vinharia/src/pages/galeria.html)
+Acesse o site: [Vinheria Agnello](https://github.com/lucascostazago/cp-front-end.git)
 
-Desenvolvido com  ❤️ pela equipe da Vinheria Agnello
+Desenvolvido com ❤️ pela equipe da Vinheria Agnello
+
